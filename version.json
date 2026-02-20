@@ -1,11 +1,12 @@
 {
-  "version": "1.4",
-  "versionCode": 4,
-  "downloadUrl": "https://github.com/WoofDeveloper/Fiszki/releases/download/v1.4/com.fiszki.english-Signed.apk",
+  "version": "1.4.1",
+  "versionCode": 5,
+  "downloadUrl": "https://github.com/WoofDeveloper/Fiszki/releases/download/v1.4.1/com.fiszki.english-Signed.apk",
   "releaseNotes": "✨ Nowa wersja 1.4!\n\n• Dodano opcję 'Wszystkie fiszki' - ucz się bez limitu!\n• Nowa ikona z flagami 🇵🇱 🇬🇧\n• System automatycznych aktualizacji\n• Poprawki błędów",
   "releaseDate": "2026-02-19T23:00:00Z",
   "isRequired": false
 }
+
 
 
 
