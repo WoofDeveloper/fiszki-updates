@@ -1,11 +1,12 @@
 {
   "version": "1.2",
   "versionCode": 2,
-  "downloadUrl": "https://github.com/WoofDeveloper/Fiszki/releases/download/Fiszki-v1.2-AllCards-Update-Release.apk/Fiszki-v1.3-RELEASE.apk",
+  "downloadUrl": "https://github.com/WoofDeveloper/Fiszki/releases/download/Fiszki-v1.2-AllCards-Update-Release.apk/com.fiszki.english-Signed.apk",
   "releaseNotes": "✨ Nowa wersja 1.3!\n\n• Dodano opcję 'Wszystkie fiszki' - ucz się bez limitu!\n• Nowa ikona z flagami 🇵🇱 🇬🇧\n• System automatycznych aktualizacji\n• Poprawki błędów",
   "releaseDate": "2026-02-19T23:00:00Z",
   "isRequired": false
 }
+
 
 
 
